@@ -2,4 +2,4 @@
 
 I'm just a random guy who makes stuff
 
-(ill update this later)
+![](https://komarev.com/ghpvc/?username=electrikoh&color=blue)
